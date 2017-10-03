@@ -1,0 +1,15 @@
+c:\users\m rameez\documents\visual studio 2015\Projects\WinformNagivation\WinformNagivation\bin\Debug\WinformNagivation.exe.config
+c:\users\m rameez\documents\visual studio 2015\Projects\WinformNagivation\WinformNagivation\bin\Debug\WinformNagivation.exe
+c:\users\m rameez\documents\visual studio 2015\Projects\WinformNagivation\WinformNagivation\bin\Debug\WinformNagivation.pdb
+c:\users\m rameez\documents\visual studio 2015\Projects\WinformNagivation\WinformNagivation\obj\Debug\WinformNagivation.csprojResolveAssemblyReference.cache
+c:\users\m rameez\documents\visual studio 2015\Projects\WinformNagivation\WinformNagivation\obj\Debug\WinformNagivation.Buy.resources
+c:\users\m rameez\documents\visual studio 2015\Projects\WinformNagivation\WinformNagivation\obj\Debug\WinformNagivation.Form1.resources
+c:\users\m rameez\documents\visual studio 2015\Projects\WinformNagivation\WinformNagivation\obj\Debug\WinformNagivation.Home.resources
+c:\users\m rameez\documents\visual studio 2015\Projects\WinformNagivation\WinformNagivation\obj\Debug\WinformNagivation.Products.resources
+c:\users\m rameez\documents\visual studio 2015\Projects\WinformNagivation\WinformNagivation\obj\Debug\WinformNagivation.Properties.Resources.resources
+c:\users\m rameez\documents\visual studio 2015\Projects\WinformNagivation\WinformNagivation\obj\Debug\WinformNagivation.csproj.GenerateResource.Cache
+c:\users\m rameez\documents\visual studio 2015\Projects\WinformNagivation\WinformNagivation\obj\Debug\WinformNagivation.exe
+c:\users\m rameez\documents\visual studio 2015\Projects\WinformNagivation\WinformNagivation\obj\Debug\WinformNagivation.pdb
+C:\Users\M Rameez\Desktop\WinformNagivation\WinformNagivation\bin\Debug\WinformNagivation.exe.config
+C:\Users\M Rameez\Desktop\WinformNagivation\WinformNagivation\obj\Debug\WinformNagivation.exe
+C:\Users\M Rameez\Desktop\WinformNagivation\WinformNagivation\obj\Debug\WinformNagivation.pdb
